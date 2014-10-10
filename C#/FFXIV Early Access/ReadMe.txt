@@ -1,0 +1,1 @@
+FFXIV Early Access is a program that simply told me when the servers were opening up for early access users for Final Fantasy XIV: A Realm Reborn.
